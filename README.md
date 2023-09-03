@@ -1,6 +1,7 @@
 # Dockerized Blog App
 
-This is a containerized blog application with configurations for different environments. 
+This is a containerized blog application with configurations for different environments.
+The application uses nginx as a reverse proxy to act as a load balancer and route requests to the appropriate services.
 
 ## Configuration Files
 
